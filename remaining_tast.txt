@@ -1,0 +1,4 @@
+http://docs.spring.io/spring-data/data-jpa/docs/1.0.0.M1/reference/html/#jpa.query-methods.query-creation
+
+通过上面的知道 看下面的解释
+http://www.oschina.net/translate/getting-started-with-spring-data-jpa
